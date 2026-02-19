@@ -1,4 +1,4 @@
-# Randomized A/B Testing:
+# Randomized A/B Testing
 
 **Randomized A/B Testing - Digital Onboarding Platform:** 
    - Tests conducted on the onboarding funnel of an online platform using a randomized setup to.
