@@ -30,7 +30,7 @@ Analysis report
 Randomized-AB-Testing/
 │
 ├── README.md
-├── AB Testing Analysis Report.pdf
+├── A0_Master_File.R
 ├── .gitignore
 │
 ├── data/
@@ -44,8 +44,8 @@ Randomized-AB-Testing/
 │   └── A1_3_dynamic_activity.R
 │
 ├── results/
+│   └── A/B Analysis Report.pdf
 
 ```
 
 
-```
