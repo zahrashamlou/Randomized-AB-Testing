@@ -26,7 +26,7 @@ Analysis report
 
 > ⚠️ The dataset used in this project is anonymized and does not contain confidential company information.
 
-
+```
 Randomized-AB-Testing/
 │
 ├── README.md
@@ -44,5 +44,8 @@ Randomized-AB-Testing/
 │   └── A1_3_dynamic_activity.R
 │
 ├── results/
-│
 
+```
+
+
+```
