@@ -41,8 +41,8 @@ Randomized-AB-Testing/
 │   ├── A1_0_data_cleaning.R
 │   ├── A1_1_data_exploration.R
 │   ├── A1_2_conversion_analysis.R
-│   └── A1_3_dynamic_activity
+│   └── A1_3_dynamic_activity.R
 │
 ├── results/
 │
-└──
+
